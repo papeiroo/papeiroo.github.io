@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ekodomprojekt",
+    "title": "EkoDom Projekt",
+    "url": "https://www.ekodomprojekt.pl",
+    "category": "Strony WWW",
+    "year": "2025",
+    "summary": "Centrum modernizacji domu w Lublinie: klimatyzacja, pompy ciepła i dotacje Czyste Powietrze. Strona nastawiona na zapytania z Google.",
+    "tags": [
+      "Strona firmowa",
+      "SEO lokalne",
+      "Lead generation"
+    ],
+    "image": "/img/realizacje/ekodomprojekt.webp",
+    "services": "Strona WWW / SEO / Lead generation"
+  },
+  {
+    "id": "jagodawojcik",
+    "title": "Jagoda Wójcik",
+    "url": "https://www.jagodawojcik.pl",
+    "category": "Aplikacje",
+    "year": "2025",
+    "summary": "Strona salonu beauty z własnym terminarzem online, panelem edycji i automatycznymi przypomnieniami SMS i e-mail. Bez abonamentu Booksy.",
+    "tags": [
+      "Terminarz",
+      "SMS / e-mail",
+      "Panel"
+    ],
+    "image": "/img/realizacje/jagodawojcik.webp",
+    "services": "Strona WWW / Terminarz / Automatyzacja"
+  },
+  {
+    "id": "kamagrooming",
+    "title": "KAMA Grooming",
+    "url": "https://www.kamagrooming.pl",
+    "category": "Aplikacje",
+    "year": "2025",
+    "summary": "Salon pielęgnacji psów z Nakła nad Notecią: rezerwacje liczone po rasie psa, kartoteka klientów, edytor strony i powiadomienia SMS / e-mail.",
+    "tags": [
+      "Rezerwacje",
+      "CRM",
+      "Edytor treści"
+    ],
+    "image": "/img/realizacje/kamagrooming.webp",
+    "services": "Strona WWW / Rezerwacje / CRM / Automatyzacja"
+  },
+  {
+    "id": "shiftparts",
+    "title": "ShiftParts",
+    "url": "https://www.shiftparts.pl",
+    "category": "Sklepy",
+    "year": "2026",
+    "summary": "Sklep internetowy z częściami: katalog produktów, płatności online i integracje. W trakcie rozwoju i redesignu.",
+    "tags": [
+      "Sklep",
+      "E-commerce",
+      "W realizacji"
+    ],
+    "image": "/img/realizacje/shiftparts.webp",
+    "services": "E-commerce / WooCommerce"
+  }
+]
